@@ -1,0 +1,16 @@
+{
+  "name": "zamac-pcp-pro",
+  "version": "2.0.0",
+  "description": "ZamacPCP Pro - Sincronizado IP Local",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Ready'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
